@@ -1,0 +1,3 @@
+[x] send info from BE to FE
+[x] login with metamask
+[ ] connect metamask account to bot key
